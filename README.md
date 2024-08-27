@@ -1,6 +1,17 @@
-## Phishing Templates
-In this repo are two folders. One has a bunch of phishing email templates to be used with . This would be the email folder. Emails can be modified to include custom company information or sent as is.
 
-The other folder holds an informational landing page for those who click emails. It notifies them they were phished and gives them tips to avoid it in the future. The html will need a company logo and a static image for the second tip.
+## Phishing Awareness Repository
 
+This repository contains resources for a phishing awareness campaign, including phishing email templates and an informational landing page.
+
+### Contents
+
+1. **Email Folder**: A collection of phishing email templates. These templates can be customized with company information or used as is.
+2. **Landing Page Folder**: An informational landing page designed for users who click on phishing emails. The page notifies them that they were phished and offers tips to help prevent future phishing attempts. The HTML file requires a company logo and a static image for the second tip.
+
+### How to Use
+
+- **Email Templates**: Customize the templates with specific company information or use them as provided.
+- **Landing Page**: Edit the HTML file to include your company logo and a suitable image for the second tip.
+
+Use these resources to help educate users on identifying and avoiding phishing scams.
 
